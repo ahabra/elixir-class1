@@ -25,6 +25,7 @@ p4_echo2: conditional spwan/receive
 References:
 http://elixir-lang.org/docs/stable/
 http://pragprog.com/book/elixir/programming-elixir : by dave thomas
+http://www.youtube.com/watch?v=a-off4Vznjs : video by dave thomas
 http://joearms.github.io/2013/05/31/a-week-with-elixir.html
 http://www.sitepoint.com/elixir-love-child-ruby-erlang/
 https://github.com/elixir-lang/ecto  db lib
