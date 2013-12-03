@@ -1,5 +1,6 @@
 
 Introduce Abdul: #ahabra, ahabra @ github/yahoo/tumblr
+https://github.com/ahabra/elixir-class1
 
 Introduce Elixir: functional language on top of erlang-vm with ruby-like syntax
 
